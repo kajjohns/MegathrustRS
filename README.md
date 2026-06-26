@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1281491550.svg)](https://doi.org/10.5281/zenodo.20939259)
+
 # MegathrustRS
 
 MATLAB code for one-dimensional rate-and-state friction simulations on a discretized subduction-interface fault. This code is based largely on original matlab codes that became the framework for FDRA (Fault Dynamics with a Radiation Damping Approximation): Segall, P., & Bradley, A. M. (2012). The role of thermal pressurization and dilatancy in controlling the rate of fault slip. Journal of Applied Mechanics, 79(3), 031013. https://doi.org/10.1115/1.4005896.
